@@ -15,6 +15,10 @@ body {
   background: var(--main-background);
 }
 
+html, body{
+  scroll-behavior: smooth;
+}
+
 /* Common */
 ul li {
   list-style: none;
